@@ -1,2 +1,3 @@
 it's good
 still good
+init content
